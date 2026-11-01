@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.NiftyOi" parent="@android:style/Theme.Material.Light.NoActionBar" />
+</resources>

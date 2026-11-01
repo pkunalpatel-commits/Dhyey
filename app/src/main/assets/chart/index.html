@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="chart.css">
+</head>
+<body>
+<div id="root">
+  <div id="legend">Waiting for data…</div>
+  <div id="und" class="panel"><div class="tag">A · NIFTY underlying + strike OI levels</div></div>
+  <div id="opt" class="panel"><div class="tag">B · Option premium + premium OI levels</div></div>
+  <div id="oic" class="panel"><div class="tag">OI (bars) · OI change per candle</div></div>
+  <div id="strip"></div>
+  <div id="attrib">Charts: <a href="https://www.tradingview.com/" target="_blank" rel="noopener">TradingView Lightweight Charts™</a></div>
+</div>
+<script src="lightweight-charts.standalone.production.js"></script>
+<script src="oi-profile.js"></script>
+<script src="chart.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+This application bundles TradingView Lightweight Charts(TM) v4.2.0
+Copyright (c) TradingView, Inc. https://www.tradingview.com/
+Licensed under the Apache License, Version 2.0 (see LIGHTWEIGHT-CHARTS-LICENSE.txt).
+Source: https://github.com/tradingview/lightweight-charts
+
+Per the Lightweight Charts NOTICE requirements, the chart page displays an attribution link to
+https://www.tradingview.com/ . This app does NOT use the proprietary TradingView Advanced Charts /
+Charting Library.
